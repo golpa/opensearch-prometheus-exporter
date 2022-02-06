@@ -1,4 +1,4 @@
-Prometheus Exporter Plugin for OpenSearch
+# Prometheus Exporter Plugin for OpenSearch
 
 This is a builtin exporter from OpenSearch to Prometheus based on the code of Vincent Van Hollebeke and others at https://github.com/vvanholl/elasticsearch-prometheus-exporter .
 It collects all relevant metrics and makes them available to Prometheus via the OpenSearch REST API.
