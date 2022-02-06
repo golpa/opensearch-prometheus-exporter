@@ -19,7 +19,7 @@ It collects all relevant metrics and makes them available to Prometheus via the 
 - Indices status
 - Cluster settings
 
- ## Compatibility matrix
+## Compatibility matrix
 
 Versions
 
