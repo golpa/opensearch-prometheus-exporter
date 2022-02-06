@@ -21,7 +21,7 @@ It collects all relevant metrics and makes them available to Prometheus via the 
 
 ## Compatibility matrix
 
-### Versions
+Versions
 
 | OpenSearch  | Plugin         | Release date |
 | ----------- | -------------- | ------------ |
